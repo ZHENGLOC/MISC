@@ -1,0 +1,741 @@
+#General
+itemGroup.actuallyadditions=实用拓展
+achievement.page.actuallyadditions=实用拓展
+actuallyadditions.lolWutHowUDoDis.name=这个物品出 bug 了。请丢掉它。
+
+#Fluids
+fluid.actuallyadditions.oil=原油
+fluid.actuallyadditions.canolaoil=菜籽油
+
+#NEI Integration
+container.nei.actuallyadditions.crushing.name=磨粉机
+container.nei.actuallyadditions.crushingDouble.name=两仓磨粉机
+container.nei.actuallyadditions.ballOfHair.name=毛球
+container.nei.actuallyadditions.compost.name=堆肥机
+container.nei.actuallyadditions.furnaceDouble.name=两仓熔炉
+container.nei.actuallyadditions.treasureChest.name=藏宝箱
+container.nei.actuallyadditions.treasureChest.info=可以开出
+container.nei.actuallyadditions.coffee.name=咖啡机
+container.nei.actuallyadditions.coffee.special=特殊效果
+container.nei.actuallyadditions.coffee.maxAmount=最大数量
+container.nei.actuallyadditions.coffee.shift=[SHIFT]!
+container.nei.actuallyadditions.coffee.extra.milk=+01:00, -1 Level
+container.nei.actuallyadditions.reconstructor.name=原子再构机
+
+container.nei.actuallyadditions.booklet.name=实用拓展手册
+container.nei.actuallyadditions.booklet.header=<item>实用拓展手册<r>上写道：
+container.nei.actuallyadditions.booklet.noText=这里空无一物！但是别担心，只需点击底部按钮，即可继续浏览其他条目！
+
+#Damage Sources
+death.actuallyadditions.atomicReconstructor.1=%s被原子重组了。
+death.actuallyadditions.atomicReconstructor.2=原子再构机发现了它的目标%s。
+death.actuallyadditions.atomicReconstructor.3=经过原子重组的%s看起来再也站不起来了。
+death.actuallyadditions.atomicReconstructor.4=%s不该抗下那发原子重组炮！
+death.actuallyadditions.atomicReconstructor.5=%s应该是吃了一发重组炮。
+
+#Blocks
+tile.actuallyadditions.blockCompost.name=堆肥机
+tile.actuallyadditions.blockMiscOreBlackQuartz.name=焦黑石英矿
+tile.actuallyadditions.blockMiscBlackQuartz.name=焦黑石英块
+tile.actuallyadditions.blockMiscBlackQuartzChiseled.name=錾制焦黑石英
+tile.actuallyadditions.blockMiscBlackQuartzPillar.name=焦黑石英柱
+tile.actuallyadditions.blockFeeder.name=自动饲育机
+tile.actuallyadditions.blockGiantChest.name=板条箱
+tile.actuallyadditions.blockGrinder.name=磨粉机
+tile.actuallyadditions.blockGrinderDouble.name=两仓磨粉机
+tile.actuallyadditions.blockFurnaceDouble.name=两仓熔炉
+tile.actuallyadditions.blockFishingNet.name=渔网
+tile.actuallyadditions.blockFurnaceSolar.name=太阳能板
+tile.actuallyadditions.blockHeatCollector.name=热能发电机
+tile.actuallyadditions.blockItemRepairer.name=物品修理机
+tile.actuallyadditions.blockMiscWoodCasing.name=木制外壳
+tile.actuallyadditions.blockGreenhouseGlass.name=温室玻璃
+tile.actuallyadditions.blockEnergizer.name=充能站
+tile.actuallyadditions.blockEnervator.name=释能站
+tile.actuallyadditions.blockRice.name=水稻
+tile.actuallyadditions.blockMiscCharcoal.name=木炭块
+tile.actuallyadditions.blockCoalGenerator.name=煤炭发电机
+tile.actuallyadditions.blockLampPowerer.name=灯具控制器
+tile.actuallyadditions.blockColoredLampWhite.name=白色灯具
+tile.actuallyadditions.blockColoredLampOrange.name=橙色灯具
+tile.actuallyadditions.blockColoredLampMagenta.name=品红色灯具
+tile.actuallyadditions.blockColoredLampYellow.name=黄色灯具
+tile.actuallyadditions.blockColoredLampLightBlue.name=淡蓝色灯具
+tile.actuallyadditions.blockColoredLampBlue.name=蓝色灯具
+tile.actuallyadditions.blockColoredLampGray.name=灰色灯具
+tile.actuallyadditions.blockColoredLampLightGray.name=淡灰色灯具
+tile.actuallyadditions.blockColoredLampGreen.name=绿色灯具
+tile.actuallyadditions.blockColoredLampBlack.name=黑色灯具
+tile.actuallyadditions.blockColoredLampBrown.name=棕色灯具
+tile.actuallyadditions.blockColoredLampRed.name=红色灯具
+tile.actuallyadditions.blockColoredLampLime.name=黄绿色灯具
+tile.actuallyadditions.blockColoredLampPink.name=粉色灯具
+tile.actuallyadditions.blockColoredLampCyan.name=青色灯具
+tile.actuallyadditions.blockColoredLampPurple.name=紫色灯具
+tile.actuallyadditions.blockPhantomface.name=代理接口
+tile.actuallyadditions.blockPhantomEnergyface.name=幻灵能量接口
+tile.actuallyadditions.blockPhantomLiquiface.name=幻灵流体接口
+tile.actuallyadditions.blockPhantomPlacer.name=幻灵方块放置器
+tile.actuallyadditions.blockPhantomBreaker.name=幻灵方块破坏器
+tile.actuallyadditions.blockLavaFactoryController.name=岩浆工厂控制器
+tile.actuallyadditions.blockMiscLavaFactoryCase.name=岩浆工厂外墙
+tile.actuallyadditions.blockFluidPlacer.name=流体成型器
+tile.actuallyadditions.blockFluidCollector.name=流体吸收器
+tile.actuallyadditions.blockPhantomBooster.name=幻灵增幅器
+tile.actuallyadditions.blockCoffee.name=咖啡
+tile.actuallyadditions.blockWildCanola.name=野生油菜
+tile.actuallyadditions.blockWildRice.name=野生水稻
+tile.actuallyadditions.blockWildCoffee.name=野生咖啡
+tile.actuallyadditions.blockWildFlax.name=野生亚麻
+tile.actuallyadditions.blockTestifiBucksGreenWall.name=装饰用绿色石英块
+tile.actuallyadditions.blockTestifiBucksWhiteWall.name=装饰用石英块
+tile.actuallyadditions.blockTestifiBucksGreenStairs.name=装饰用绿色石英楼梯
+tile.actuallyadditions.blockTestifiBucksWhiteStairs.name=装饰用石英楼梯
+tile.actuallyadditions.blockTestifiBucksGreenSlab.name=装饰用绿色石英台阶
+tile.actuallyadditions.blockTestifiBucksWhiteSlab.name=装饰用石英台阶
+tile.actuallyadditions.blockCanola.name=油菜
+tile.actuallyadditions.blockTreasureChest.name=藏宝箱
+tile.actuallyadditions.blockCanolaPress.name=油菜压榨机
+tile.actuallyadditions.blockFermentingBarrel.name=发酵桶
+tile.actuallyadditions.blockCanolaOil.name=菜籽油
+tile.actuallyadditions.blockOil.name=原油
+tile.actuallyadditions.blockMiscEnderpearl.name=末影珍珠块
+tile.actuallyadditions.blockOilGenerator.name=原油发电机
+tile.actuallyadditions.blockBreaker.name=方块破坏器
+tile.actuallyadditions.blockPlacer.name=方块放置器
+tile.actuallyadditions.blockDropper.name=精准自动投掷器
+tile.actuallyadditions.blockMiscEnderCasing.name=末影外壳
+tile.actuallyadditions.blockFlax.name=亚麻
+tile.actuallyadditions.blockCoffeeMachine.name=咖啡机
+tile.actuallyadditions.blockXPSolidifier.name=经验固化器
+tile.actuallyadditions.blockSmileyCloud.name=微笑云朵
+tile.actuallyadditions.blockLeafGenerator.name=咀叶发电机
+tile.actuallyadditions.blockDirectionalBreaker.name=长距离方块破坏器
+tile.actuallyadditions.blockRangedCollector.name=物品吸收器
+tile.actuallyadditions.blockLaserRelay.name=激光中继器
+tile.actuallyadditions.blockMiscIronCasing.name=铁制外壳
+tile.actuallyadditions.blockBlackLotus.name=黑莲花
+tile.actuallyadditions.blockTestifiBucksWhiteFence.name=装饰用石英围墙
+tile.actuallyadditions.blockTestifiBucksGreenFence.name=装饰用绿色石英围墙
+tile.actuallyadditions.blockAtomicReconstructor.name=原子再构机
+tile.actuallyadditions.blockCrystalRed.name=红石水晶块
+tile.actuallyadditions.blockCrystalBlue.name=青金石水晶块
+tile.actuallyadditions.blockCrystalLightBlue.name=钻石水晶块
+tile.actuallyadditions.blockCrystalGreen.name=绿宝石水晶块
+tile.actuallyadditions.blockCrystalBlack.name=煤晶块
+tile.actuallyadditions.blockCrystalWhite.name=铁晶块
+tile.actuallyadditions.blockBookStand.name=手册架
+tile.actuallyadditions.blockMiner.name=垂直挖矿机
+tile.actuallyadditions.blockFireworkBox.name=烟花发射器
+tile.actuallyadditions.blockQuartzWall.name=焦黑石英围墙
+tile.actuallyadditions.blockQuartzStair.name=焦黑石英楼梯
+tile.actuallyadditions.blockQuartzSlab.name=焦黑石英台阶
+tile.actuallyadditions.blockChiseledQuartzWall.name=錾制焦黑石英围墙
+tile.actuallyadditions.blockChiseledQuartzStair.name=錾制焦黑石英楼梯
+tile.actuallyadditions.blockChiseledQuartzSlab.name=錾制焦黑石英台阶
+tile.actuallyadditions.blockPillarQuartzWall.name=焦黑石英柱围墙
+tile.actuallyadditions.blockPillarQuartzStair.name=焦黑石英柱楼梯
+tile.actuallyadditions.blockPillarQuartzSlab.name=焦黑石英柱台阶
+
+#ESD
+tile.actuallyadditions.blockInputter.name=ESD
+tile.actuallyadditions.blockInputterAdvanced.name=高级 ESD
+tile.actuallyadditions.blockInputter.add.1.name=Ellpeck's Slot Device
+tile.actuallyadditions.blockInputter.add.2.name=Ethereal System Dude
+tile.actuallyadditions.blockInputter.add.3.name=Energy Stuff Distributor
+tile.actuallyadditions.blockInputter.add.4.name=Existing Stuff Donator
+tile.actuallyadditions.blockInputter.add.5.name=ExtraUtils Stealing Device
+tile.actuallyadditions.blockInputter.add.6.name=Experienced Sauce Deriver
+tile.actuallyadditions.blockInputter.add.7.name=Excellent Spaghetti Dessert
+tile.actuallyadditions.blockInputter.add.8.name=Extraordinary Sample Deliverer
+tile.actuallyadditions.blockInputter.add.9.name=Express Sending Doughnut
+tile.actuallyadditions.blockInputter.add.10.name=Expelling Sugar Dagger
+tile.actuallyadditions.blockInputter.add.11.name=Extra-Long Solidifying Dissociation
+tile.actuallyadditions.blockInputter.add.12.name=Energetic Solo Dancer
+tile.actuallyadditions.blockInputter.add.13.name=Efficient Sucking Dilettant
+tile.actuallyadditions.blockInputter.add.14.name=Extreme Sand Digger
+tile.actuallyadditions.blockInputter.add.15.name=Ending Serious Daughter
+
+#Items
+item.actuallyadditions.itemDrill.name=手钻
+item.actuallyadditions.itemFoodRice.name=稻米
+item.actuallyadditions.itemFoodDoughnut.name=甜甜圈
+item.actuallyadditions.itemMiscRiceDough.name=大米面团
+item.actuallyadditions.itemFoodRiceBread.name=大米面包
+item.actuallyadditions.itemRiceSeed.name=水稻种子
+item.actuallyadditions.itemMiscTinyCoal.name=小块煤炭
+item.actuallyadditions.itemMiscTinyCharcoal.name=小块木炭
+item.actuallyadditions.itemMiscRiceSlime.name=浆糊球
+item.actuallyadditions.itemBattery.name=一阶电池
+item.actuallyadditions.itemBatteryDouble.name=二阶电池
+item.actuallyadditions.itemBatteryTriple.name=三阶电池
+item.actuallyadditions.itemBatteryQuadruple.name=四阶电池
+item.actuallyadditions.itemBatteryQuintuple.name=五阶电池
+item.actuallyadditions.itemGrowthRing.name=生长指环
+item.actuallyadditions.itemWaterRemovalRing.name=除夜指环
+item.actuallyadditions.itemSuctionRing.name=磁力指环
+item.actuallyadditions.itemBucketCanolaOil.name=菜籽油桶
+item.actuallyadditions.itemBucketOil.name=原油桶
+item.actuallyadditions.itemWingsOfTheBats.name=蝙蝠之翼
+item.actuallyadditions.itemMiscBatWing.name=蝙蝠之翼
+item.actuallyadditions.woodenPaxel.name=木制全能工具
+item.actuallyadditions.stonePaxel.name=石制全能工具
+item.actuallyadditions.ironPaxel.name=铁制全能工具
+item.actuallyadditions.goldPaxel.name=金制全能工具
+item.actuallyadditions.diamondPaxel.name=钻石全能工具
+item.actuallyadditions.emeraldPaxel.name=绿宝石全能工具
+item.actuallyadditions.obsidianPaxel.name=黑曜石全能工具
+item.actuallyadditions.quartzPaxel.name=焦黑石英全能工具
+item.actuallyadditions.paxelTFCopper.name=TF 铜制全能工具
+item.actuallyadditions.paxelTFTin.name=TF 锡制全能工具
+item.actuallyadditions.paxelTFLead.name=TF 铅制全能工具
+item.actuallyadditions.paxelTFSilver.name=TF 银制全能工具
+item.actuallyadditions.paxelTFElectrum.name=TF 琥珀金全能工具
+item.actuallyadditions.paxelTFNickel.name=TF 镍制全能工具
+item.actuallyadditions.paxelTFBronze.name=TF 青铜全能工具
+item.actuallyadditions.paxelTFPlatinum.name=TF 铂制全能工具
+item.actuallyadditions.paxelTFInvar.name=TF 因瓦合金全能工具
+item.actuallyadditions.paxelMTObsidian.name=MT 黑曜石全能工具
+item.actuallyadditions.paxelMTGlowstone.name=MT 萤石全能工具
+item.actuallyadditions.paxelMTLapisLazuli.name=MT 青金石全能工具
+item.actuallyadditions.paxelMTOsmium.name=MT 锇制全能工具
+item.actuallyadditions.paxelMTBronze.name=MT 青铜全能工具
+item.actuallyadditions.paxelMTSteel.name=MT 钢制全能工具
+item.actuallyadditions.paxelSOadamantium.name=SO 艾德曼合金全能工具
+item.actuallyadditions.paxelSOcopper.name=SO 铜制全能工具
+item.actuallyadditions.paxelSOtin.name=SO 锡制全能工具
+item.actuallyadditions.paxelSOonyx.name=SO Onyx AIOT
+item.actuallyadditions.paxelSOmythril.name=SO 秘银全能工具
+item.actuallyadditions.itemPhantomConnector.name=代理连接工具
+item.actuallyadditions.itemMiscCup.name=空杯子
+item.actuallyadditions.itemCoffee.name=一杯咖啡
+item.actuallyadditions.itemCoffeeSeed.name=咖啡种子
+item.actuallyadditions.itemCoffeeBeans.name=咖啡豆
+item.actuallyadditions.itemCanolaSeed.name=油菜种子
+item.actuallyadditions.itemMiscCanola.name=油菜
+item.actuallyadditions.itemResonantRice.name=谐振稻米
+item.actuallyadditions.itemDrillUpgradeSpeed.name=钻头急迫升级I
+item.actuallyadditions.itemDrillUpgradeSpeedII.name=钻头急迫升级II
+item.actuallyadditions.itemDrillUpgradeSpeedIII.name=钻头急迫升级III
+item.actuallyadditions.itemDrillUpgradeSilkTouch.name=钻头精准升级
+item.actuallyadditions.itemDrillUpgradeFortune.name=钻头时运升级I
+item.actuallyadditions.itemDrillUpgradeFortuneII.name=钻头时运升级II（效果等同于时运III）
+item.actuallyadditions.itemDrillUpgradeBlockPlacing.name=钻头方块放置升级
+item.actuallyadditions.itemDrillUpgradeThreeByThree.name=钻头范围采掘升级I
+item.actuallyadditions.itemDrillUpgradeFiveByFive.name=钻头范围采掘升级II
+item.actuallyadditions.itemMiscMashedFood.name=捣碎的食物
+item.actuallyadditions.itemFertilizer.name=肥料
+item.actuallyadditions.itemMiscDough.name=面团
+item.actuallyadditions.itemMiscPaperCone.name=纸杯
+item.actuallyadditions.itemMiscKnifeBlade.name=刀刃
+item.actuallyadditions.itemMiscKnifeHandle.name=刀柄
+item.actuallyadditions.itemMiscBlackQuartz.name=焦黑石英
+item.actuallyadditions.itemMiscRing.name=普通指环
+item.actuallyadditions.itemTeleStaff.name=传送手杖
+item.actuallyadditions.itemJamCuBaRa.name=CuBaRa 果酱
+item.actuallyadditions.itemJamGraKiBa.name=GraKiBa 果酱
+item.actuallyadditions.itemJamPlApLe.name=PlApLe 果酱
+item.actuallyadditions.itemJamChApCi.name=ChApCi 果酱
+item.actuallyadditions.itemJamHoMeKi.name=HoMeKi 果酱
+item.actuallyadditions.itemJamHoMeCo.name=HoMeCo 果酱
+item.actuallyadditions.itemJamPiCo.name=PiCo 果酱
+item.actuallyadditions.itemHairyBall.name=毛球
+item.actuallyadditions.itemLeafBlower.name=吹叶器
+item.actuallyadditions.itemLeafBlowerAdvanced.name=高级吹叶器
+item.actuallyadditions.itemKnife.name=小刀
+item.actuallyadditions.itemPickaxeEmerald.name=绿宝石镐
+item.actuallyadditions.itemAxeEmerald.name=绿宝石斧
+item.actuallyadditions.itemShovelEmerald.name=绿宝石铲
+item.actuallyadditions.itemHoeEmerald.name=绿宝石锄
+item.actuallyadditions.itemSwordEmerald.name=绿宝石剑
+item.actuallyadditions.itemPickaxeQuartz.name=焦黑石英镐
+item.actuallyadditions.itemAxeQuartz.name=焦黑石英斧
+item.actuallyadditions.itemShovelQuartz.name=焦黑石英铲
+item.actuallyadditions.itemHoeQuartz.name=焦黑石英锄
+item.actuallyadditions.itemSwordQuartz.name=焦黑石英剑
+item.actuallyadditions.itemPickaxeObsidian.name=黑曜石镐
+item.actuallyadditions.itemAxeObsidian.name=黑曜石斧
+item.actuallyadditions.itemShovelObsidian.name=黑曜石铲
+item.actuallyadditions.itemHoeObsidian.name=黑曜石锄
+item.actuallyadditions.itemSwordObsidian.name=黑曜石剑
+item.actuallyadditions.itemCrafterOnAStick.name=手持工作台
+item.actuallyadditions.itemFoodBaguette.name=法国长面包
+item.actuallyadditions.itemFoodPizza.name=披萨
+item.actuallyadditions.itemFoodHamburger.name=汉堡包
+item.actuallyadditions.itemFoodBigCookie.name=大块曲奇
+item.actuallyadditions.itemFoodSubmarineSandwich.name=海鲜三明治
+item.actuallyadditions.itemFoodToast.name=吐司面包
+item.actuallyadditions.itemFoodChocolateToast.name=巧克力吐司面包
+item.actuallyadditions.itemFoodChocolate.name=巧克力
+item.actuallyadditions.itemFoodChocolateCake.name=巧克力蛋糕
+item.actuallyadditions.itemFoodNoodle.name=面条
+item.actuallyadditions.itemFoodSpaghetti.name=意大利面
+item.actuallyadditions.itemFoodFrenchFry.name=炸薯条
+item.actuallyadditions.itemFoodFrenchFries.name=大杯炸薯条
+item.actuallyadditions.itemFoodFishNChips.name=海鲜炸薯条
+item.actuallyadditions.itemFoodCarrotJuice.name=胡萝卜汁
+item.actuallyadditions.itemFoodPumpkinStew.name=南瓜汤
+item.actuallyadditions.itemFoodCheese.name=奶酪
+item.actuallyadditions.itemMiscCoil.name=基础线圈
+item.actuallyadditions.itemMiscCoilAdvanced.name=高级线圈
+item.actuallyadditions.itemPotionRing.name=药水指环 -
+item.actuallyadditions.itemPotionRingAdvanced.name=高级药水指环 -
+item.actuallyadditions.itemSolidifiedExperience.name=固化经验
+item.actuallyadditions.itemDustIron.name=铁粉
+item.actuallyadditions.itemDustGold.name=金粉
+item.actuallyadditions.itemDustDiamond.name=钻石粉
+item.actuallyadditions.itemDustLapis.name=青金石粉
+item.actuallyadditions.itemDustEmerald.name=绿宝石粉
+item.actuallyadditions.itemDustQuartz.name=石英粉
+item.actuallyadditions.itemDustCoal.name=煤粉
+item.actuallyadditions.itemDustQuartzBlack.name=焦黑石英粉
+item.actuallyadditions.itemFlaxSeed.name=亚麻种子
+item.actuallyadditions.itemHelmObsidian.name=黑曜石头盔
+item.actuallyadditions.itemChestObsidian.name=黑曜石胸甲
+item.actuallyadditions.itemPantsObsidian.name=黑曜石护腿
+item.actuallyadditions.itemBootsObsidian.name=黑曜石靴子
+item.actuallyadditions.itemHelmEmerald.name=绿宝石头盔
+item.actuallyadditions.itemChestEmerald.name=绿宝石胸甲
+item.actuallyadditions.itemPantsEmerald.name=绿宝石护腿
+item.actuallyadditions.itemBootsEmerald.name=绿宝石靴子
+item.actuallyadditions.itemHelmQuartz.name=焦黑石英头盔
+item.actuallyadditions.itemChestQuartz.name=焦黑石英胸甲
+item.actuallyadditions.itemPantsQuartz.name=焦黑石英护腿
+item.actuallyadditions.itemBootsQuartz.name=焦黑石英靴子
+item.actuallyadditions.itemBooklet.name=实用拓展手册
+item.actuallyadditions.itemLaserWrench.name=中继器扳手
+item.actuallyadditions.itemChestToCrateUpgrade.name=板条箱升级勋章
+item.actuallyadditions.itemMiscDrillCore.name=钻头核心
+item.actuallyadditions.itemMiscBlackDye.name=黑色染料
+item.actuallyadditions.itemCrystalRed.name=红石水晶
+item.actuallyadditions.itemCrystalBlue.name=青金石水晶
+item.actuallyadditions.itemCrystalLightBlue.name=钻石水晶
+item.actuallyadditions.itemCrystalGreen.name=绿宝石水晶
+item.actuallyadditions.itemCrystalBlack.name=煤晶
+item.actuallyadditions.itemCrystalWhite.name=铁晶
+item.actuallyadditions.itemMiscLens.name=透镜
+item.actuallyadditions.itemColorLens.name=斑斓透镜
+item.actuallyadditions.itemExplosionLens.name=爆破透镜
+item.actuallyadditions.itemDamageLens.name=死亡透镜
+item.actuallyadditions.itemCrateKeeper.name=板条箱守护徽章
+item.actuallyadditions.itemPickaxeCrystalRed.name=红石水晶镐
+item.actuallyadditions.itemAxeCrystalRed.name=红石水晶斧
+item.actuallyadditions.itemShovelCrystalRed.name=红石水晶铲
+item.actuallyadditions.itemSwordCrystalRed.name=红石水晶剑
+item.actuallyadditions.itemHoeCrystalRed.name=红石水晶锄
+item.actuallyadditions.itemHelmCrystalRed.name=红石水晶头盔
+item.actuallyadditions.itemChestCrystalRed.name=红石水晶胸甲
+item.actuallyadditions.itemPantsCrystalRed.name=红石水晶护腿
+item.actuallyadditions.itemBootsCrystalRed.name=红石水晶靴子
+item.actuallyadditions.itemPickaxeCrystalBlue.name=青金石水晶镐
+item.actuallyadditions.itemAxeCrystalBlue.name=青金石水晶斧
+item.actuallyadditions.itemShovelCrystalBlue.name=青金石水晶铲
+item.actuallyadditions.itemSwordCrystalBlue.name=青金石水晶剑
+item.actuallyadditions.itemHoeCrystalBlue.name=青金石水晶锄
+item.actuallyadditions.itemHelmCrystalBlue.name=青金石水晶头盔
+item.actuallyadditions.itemChestCrystalBlue.name=青金石水晶胸甲
+item.actuallyadditions.itemPantsCrystalBlue.name=青金石水晶护腿
+item.actuallyadditions.itemBootsCrystalBlue.name=青金石水晶靴子
+item.actuallyadditions.itemPickaxeCrystalLightBlue.name=钻石水晶镐
+item.actuallyadditions.itemAxeCrystalLightBlue.name=钻石水晶斧
+item.actuallyadditions.itemShovelCrystalLightBlue.name=钻石水晶铲
+item.actuallyadditions.itemSwordCrystalLightBlue.name=钻石水晶剑
+item.actuallyadditions.itemHoeCrystalLightBlue.name=钻石水晶锄
+item.actuallyadditions.itemHelmCrystalLightBlue.name=钻石水晶头盔
+item.actuallyadditions.itemChestCrystalLightBlue.name=钻石水晶胸甲
+item.actuallyadditions.itemPantsCrystalLightBlue.name=钻石水晶护腿
+item.actuallyadditions.itemBootsCrystalLightBlue.name=钻石水晶靴子
+item.actuallyadditions.itemPickaxeCrystalBlack.name=煤晶镐
+item.actuallyadditions.itemAxeCrystalBlack.name=煤晶斧
+item.actuallyadditions.itemShovelCrystalBlack.name=煤晶铲
+item.actuallyadditions.itemSwordCrystalBlack.name=煤晶剑
+item.actuallyadditions.itemHoeCrystalBlack.name=煤晶锄
+item.actuallyadditions.itemHelmCrystalBlack.name=煤晶头盔
+item.actuallyadditions.itemChestCrystalBlack.name=煤晶胸甲
+item.actuallyadditions.itemPantsCrystalBlack.name=煤晶护腿
+item.actuallyadditions.itemBootsCrystalBlack.name=煤晶靴子
+item.actuallyadditions.itemPickaxeCrystalGreen.name=绿宝石水晶镐
+item.actuallyadditions.itemAxeCrystalGreen.name=绿宝石水晶斧
+item.actuallyadditions.itemShovelCrystalGreen.name=绿宝石水晶铲
+item.actuallyadditions.itemSwordCrystalGreen.name=绿宝石水晶剑
+item.actuallyadditions.itemHoeCrystalGreen.name=绿宝石水晶锄
+item.actuallyadditions.itemHelmCrystalGreen.name=绿宝石水晶头盔
+item.actuallyadditions.itemChestCrystalGreen.name=绿宝石水晶胸甲
+item.actuallyadditions.itemPantsCrystalGreen.name=绿宝石水晶护腿
+item.actuallyadditions.itemBootsCrystalGreen.name=绿宝石水晶靴子
+item.actuallyadditions.itemPickaxeCrystalWhite.name=铁晶镐
+item.actuallyadditions.itemAxeCrystalWhite.name=铁晶斧
+item.actuallyadditions.itemShovelCrystalWhite.name=铁晶铲
+item.actuallyadditions.itemSwordCrystalWhite.name=铁晶剑
+item.actuallyadditions.itemHoeCrystalWhite.name=铁晶锄
+item.actuallyadditions.itemHelmCrystalWhite.name=铁晶头盔
+item.actuallyadditions.itemChestCrystalWhite.name=铁晶胸甲
+item.actuallyadditions.itemPantsCrystalWhite.name=铁晶护腿
+item.actuallyadditions.itemBootsCrystalWhite.name=铁晶靴子
+item.actuallyadditions.itemPaxelCrystalRed.name=红石水晶全能工具
+item.actuallyadditions.itemPaxelCrystalBlue.name=青金石水晶全能工具
+item.actuallyadditions.itemPaxelCrystalLightBlue.name=钻石水晶全能工具
+item.actuallyadditions.itemPaxelCrystalBlack.name=煤晶全能工具
+item.actuallyadditions.itemPaxelCrystalWhite.name=铁晶全能工具
+item.actuallyadditions.itemPaxelCrystalGreen.name=绿宝石水晶全能工具
+item.actuallyadditions.itemFoodBacon.name=培根
+
+#Tooltips
+tooltip.actuallyadditions.onSuffix.desc=开启
+tooltip.actuallyadditions.phantom.connected.desc=<连接成功！>
+tooltip.actuallyadditions.phantom.stored.desc=<存储开始！>
+tooltip.actuallyadditions.phantom.unbound.desc=连接已清除！
+tooltip.actuallyadditions.boundTo.desc=绑定于
+tooltip.actuallyadditions.clearStorage.desc=合成一次以清除存储！
+tooltip.actuallyadditions.phantom.connectedRange.desc=连接正常工作。
+tooltip.actuallyadditions.phantom.connectedNoRange.desc=连接受阻：超出范围,连接方块的区块未加载或连接方块的类型不正确。
+tooltip.actuallyadditions.phantom.notConnected.desc=它没有连接！
+tooltip.actuallyadditions.phantom.blockInfo.desc=连接的方块%s在 %s,%s,%s 有 %s 个方块远.
+tooltip.actuallyadditions.factory.notPart.desc=控制器还不是正确的多方块结构的一部分！好好看看控制器的介绍！
+tooltip.actuallyadditions.factory.works.desc=该岩浆工厂已成型，可以开始生产岩浆了！
+tooltip.actuallyadditions.oredictName.desc=矿物辞典条目：
+tooltip.actuallyadditions.noOredictNameAvail.desc=无
+tooltip.actuallyadditions.codeName.desc=代码名字
+tooltip.actuallyadditions.baseUnlocName.desc=英文原名
+tooltip.actuallyadditions.unlocName.desc=Meta
+tooltip.actuallyadditions.disablingInfo.desc=如果你不想看到这个信息,可在实用拓展的配置文件里禁用它！
+tooltip.actuallyadditions.ctrlForMoreInfo.desc=按住Ctrl查看高级信息
+tooltip.actuallyadditions.extraInfo.desc=高级信息
+tooltip.actuallyadditions.blockPhantomRange.desc=范围
+tooltip.actuallyadditions.laser.stored.desc=<连接开始！>
+tooltip.actuallyadditions.laser.connected.desc=<中继器已连接！>
+tooltip.actuallyadditions.laser.cantConnect.desc=无法连接：中继器已是另一个网络的一部分,或者存储的中继器不在了或距离太远！
+tooltip.actuallyadditions.itemBooklet.desc=查看"指导手册",如果你愿意
+
+#Gui Information
+info.actuallyadditions.gui.animals=动物
+info.actuallyadditions.gui.enoughToBreed=数量足够繁殖！
+info.actuallyadditions.gui.tooMany=数量太多了！
+info.actuallyadditions.gui.notEnough=不够繁殖起始数量！
+info.actuallyadditions.gui.disabled=禁止
+info.actuallyadditions.gui.up=上
+info.actuallyadditions.gui.down=下
+info.actuallyadditions.gui.north=北
+info.actuallyadditions.gui.east=东
+info.actuallyadditions.gui.south=南
+info.actuallyadditions.gui.west=西
+info.actuallyadditions.gui.all=所有
+info.actuallyadditions.gui.put=放入
+info.actuallyadditions.gui.pull=取出
+info.actuallyadditions.gui.whitelist=白名单
+info.actuallyadditions.gui.blacklist=黑名单
+info.actuallyadditions.gui.coffee=咖啡
+info.actuallyadditions.gui.ok=Ok
+info.actuallyadditions.gui.the=
+info.actuallyadditions.inputter.info.1=这是<p>的起始格。
+info.actuallyadditions.inputter.info.2=这是<p>的结束格（不含）。解释：如果左边填2，这里填5，那么2、3、4格将会执行<p>的动作。
+info.actuallyadditions.inputter.whitelistInfo=设置为空的黑名单可以使所有物品通过，设置为空的白名单可以禁止所有物品通过。通过放置想过滤的物品来自定义想要的功能。
+info.actuallyadditions.noLens=没有透镜
+info.actuallyadditions.booklet.manualName.1=实用拓展
+info.actuallyadditions.booklet.manualName.2=手册
+info.actuallyadditions.booklet.edition=版
+
+#Container Names
+container.actuallyadditions.inputter.name=ESD
+container.actuallyadditions.inputterAdvanced.name=高级 ESD
+container.actuallyadditions.grinder.name=磨粉机
+container.actuallyadditions.grinderDouble.name=两仓磨粉机
+container.actuallyadditions.furnaceDouble.name=两仓熔炉
+container.actuallyadditions.feeder.name=自动饲育机
+container.actuallyadditions.giantChest.name=板条箱
+container.actuallyadditions.repairer.name=物品修理机
+container.actuallyadditions.placer.name=方块放置器
+container.actuallyadditions.breaker.name=方块破坏器
+container.actuallyadditions.dropper.name=精准自动投掷器
+container.actuallyadditions.crafting.name=手持工作台
+container.actuallyadditions.canolaPress.name=油菜压榨机
+container.actuallyadditions.fermentingBarrel.name=发酵桶
+container.actuallyadditions.coalGenerator.name=煤炭发电机
+container.actuallyadditions.oilGenerator.name=原油发电机
+container.actuallyadditions.phantomPlacer.name=幻灵方块放置器
+container.actuallyadditions.phantomBreaker.name=幻灵方块破坏器
+container.actuallyadditions.phantomface.name=幻灵接口
+container.actuallyadditions.liquiface.name=幻灵流体接口
+container.actuallyadditions.energyface.name=幻灵能量接口
+container.actuallyadditions.fluidPlacer.name=流体成型器
+container.actuallyadditions.fluidCollector.name=流体吸收器
+container.actuallyadditions.coffeeMachine.name=咖啡机
+container.actuallyadditions.drill.name=手钻
+container.actuallyadditions.energizer.name=充能站
+container.actuallyadditions.enervator.name=释能站
+container.actuallyadditions.xpSolidifier.name=经验固化器
+container.actuallyadditions.cloud.name=微笑云朵
+container.actuallyadditions.directionalBreaker.name=长距离方块破坏器
+container.actuallyadditions.rangedCollector.name=物品吸收器
+container.actuallyadditions.miner.name=垂直挖矿机
+
+#Update Information
+info.actuallyadditions.update.generic=[{"text":"有新的"},{"text":"实用拓展","color":"dark_green"},{"text":"版本可用！","color":"none"}]
+info.actuallyadditions.update.versionCompare=[{"text":"当前版本："},{"text":"%s","color":"dark_red"},{"text":"，最新版本：","color":"none"},{"text":"%s","color":"dark_green"}]
+info.actuallyadditions.update.buttons=[{"text":"["},{"text":"点击以查看更新日志","color":"green","clickEvent":{"action":"open_url","value":"%s"}},{"text":"] [","color":"none"},{"text":"点击以下载","color":"green","clickEvent":{"action":"open_url","value":"%s"}},{"text":"]","color":"none"}]
+info.actuallyadditions.update.buttonOptions=单击：更新日志，按住Shift键单击：下载！（在浏览器中）
+info.actuallyadditions.update.failed=[{"text":"实用拓展","color":"dark_green"},{"text":"的更新检查失败！查看日志文件以了解更多信息！","color":"none"}]
+
+#Achievements
+achievement.actuallyadditions.openBooklet=Screams of Knowledge
+achievement.actuallyadditions.openBooklet.desc=Open an Actually Additions Manual
+
+achievement.actuallyadditions.nameSmileyCloud=Your best friend
+achievement.actuallyadditions.nameSmileyCloud.desc=Name a Smiley Cloud
+
+achievement.actuallyadditions.craftPhantomface=Zoom, Zoom, Items!
+achievement.actuallyadditions.craftPhantomface.desc=Craft a Phantomface
+
+achievement.actuallyadditions.openTreasureChest=Underwater Dungeon
+achievement.actuallyadditions.openTreasureChest.desc=Open a Treasure Chest
+
+achievement.actuallyadditions.craftLiquiface=Zoom, Zoom, Fluids!
+achievement.actuallyadditions.craftLiquiface.desc=Craft a Phantom Liquiface
+
+achievement.actuallyadditions.craftEnergyface=Zoom, Zoom, RF!
+achievement.actuallyadditions.craftEnergyface.desc=Craft a Phantom Energyface
+
+achievement.actuallyadditions.craftCoalGen=Furnace for cools
+achievement.actuallyadditions.craftCoalGen.desc=Craft a Coal Generator
+
+achievement.actuallyadditions.craftLeafGen=Munch, dude!
+achievement.actuallyadditions.craftLeafGen.desc=Craft a Leaf-Eating Generator
+
+achievement.actuallyadditions.craftReconstructor=Bzrrrrt something else
+achievement.actuallyadditions.craftReconstructor.desc=Craft an Atomic Reconstructor
+
+achievement.actuallyadditions.craftLaserRelay=Relayed, not delayed
+achievement.actuallyadditions.craftLaserRelay.desc=Craft a Laser Relay
+
+achievement.actuallyadditions.craftCrusher=Doublin' up!
+achievement.actuallyadditions.craftCrusher.desc=Craft a Crusher
+
+achievement.actuallyadditions.pickUpCoffee=Makes you addicted
+achievement.actuallyadditions.pickUpCoffee.desc=Harvest some coffee
+
+achievement.actuallyadditions.craftCoffeeMachine=Addiction in cups
+achievement.actuallyadditions.craftCoffeeMachine.desc=Craft a Coffee Machine
+
+#Booklet Recipe Names
+booklet.actuallyadditions.shapelessRecipe=Shapeless Recipe
+booklet.actuallyadditions.shapedRecipe=Shaped Recipe
+booklet.actuallyadditions.shapelessOreRecipe=Shapeless OreDictionary Recipe
+booklet.actuallyadditions.shapedOreRecipe=Shaped OreDictionary Recipe
+
+#Booklet Entries
+booklet.actuallyadditions.indexEntry.gettingStarted.name=Getting Started
+booklet.actuallyadditions.indexEntry.misc.name=Miscellaneous
+booklet.actuallyadditions.indexEntry.functionalNoRF.name=Blocks that don't use RF
+booklet.actuallyadditions.indexEntry.allAndSearch.name=All Items and Search
+booklet.actuallyadditions.indexEntry.functionalRF.name=Blocks that use RF
+booklet.actuallyadditions.indexEntry.generatingRF.name=Blocks that generate RF
+booklet.actuallyadditions.indexEntry.itemsNoRF.name=Items that don't use RF
+booklet.actuallyadditions.indexEntry.itemsRF.name=Items that use RF
+
+#Booklet Info
+booklet.actuallyadditions.recipeDisabled=The crafting recipe for this item is disabled in the Config File! If you're on a server, ask the server author to enable it in the config. If you're on a client, press the 'Open Config'-Button on the top right and enable the recipe!
+booklet.actuallyadditions.clickToSeeRecipe=Click to see more Information
+booklet.actuallyadditions.amountOfWords=%s words in total
+booklet.actuallyadditions.amountOfChars=%s characters in total
+
+#Booklet Chapters
+booklet.actuallyadditions.chapter.intro.name=An Introduction to ActAdd
+booklet.actuallyadditions.chapter.intro.text.1=<i>For too long have the people of Minecraftia toiled under a relentless whip. A whip more hurtful and more injurious than that of any slave-master: inconvenience. Aye, the thousand million inconveniences that make up the grind, that force players to waste hours- nay, days!- chopping wood and farming wheat and other such mundane tasks, just to momentarily escape the remorseless tedium and experience the true joys of Minecraftia, building, caving and adventuring into the beautiful uncharted abundance
+booklet.actuallyadditions.chapter.intro.text.2=<i>of the world. Yet no sooner has one immersed oneself in this creative enterprise than the inconveniences return, like millions of furious bees pestering, stinging, swarming all over you until the game ceases to be enjoyable, and you are driven away from it forever. To that end, a certain Ellpeck has created this Actual Addition to the world of Minecraft, that will allow the player to better engage with the core experiences of the game- building and adventuring- by automating and streamlining the monotony that
+booklet.actuallyadditions.chapter.intro.text.3=<i>is grinding in Minecraft. Therefore, Ellpeck humbly presents to you this Actually Additions Manual, that shall teach you the ways of this modification and, ultimately, allow you to transcend inconvenience and attain enlightenment. <r><n><n>                   ~by <imp>Tulkas<r>
+
+booklet.actuallyadditions.chapter.craftingIngs.name=Crafting Ingredients
+booklet.actuallyadditions.chapter.craftingIngs.text.1=<imp>Actually Additions<r> has lots of items that use certain <imp>basic crafting items<r> to be crafted. This chapter has all of these basic items <imp>grouped up<r> so that you can see all of them at once.
+
+booklet.actuallyadditions.chapter.quartz.name=Black Quartz
+booklet.actuallyadditions.chapter.quartz.text.1=<item>Black Quartz<r> is an <imp>Ore<r> that generates in the world <imp>between layer <lowest> and <highest><r>. When broken, it can be <imp>smelted in a furnace<r> or <imp>crushed in a crusher<r> to get broken down into <item>Black Quartz<r>.
+booklet.actuallyadditions.chapter.quartz.text.2=<item>Black Quartz<r> items are used in lots of <imp>Crafting Recipes<r> in <imp>Actually Additions<r>. They are very important for most of the Items and, thus, should be mined when found in the world. They can be crafted into a couple of different <imp>Decorative Blocks<r> shown on the following pages. <n>Every variant can also be crafted into <imp>Stairs, Slabs and Walls<r> using the well-known recipes. <n><n><i>Nether Quartz, but deadlier
+
+booklet.actuallyadditions.chapter.cloud.name=Smiley Cloud
+booklet.actuallyadditions.chapter.cloud.text.1=The <item>Smiley Cloud<r> is a magical floating cloud which is getting put to life through the piece of Solidified Experience inside it. It hovers up and down in its place all jolly and fun, and when <imp>right-clicking<r>, you can <imp>give it a name<r>. <n>When giving it certain <imp>special names<r> like <imp>"Ellpeck"<r> or <imp>"AcidBlues"<r>, it will have some special items it carries!
+
+booklet.actuallyadditions.chapter.coalStuff.name=Coal Stuff
+booklet.actuallyadditions.chapter.coalStuff.text.1=Sometimes your <item>Coal<r> just <imp>burns for too long or too short<r>, you know what I mean? <n>For that, you can now craft <item>Tiny Coal<r>, <item>Tiny Charcoal<r> and <item>Blocks of Charcoal<r> for using them in a furnace. <n>While the <item>Block of Charcoal<r> burns for as long as a <item>Block of Coal<r>, the <item>Tiny Coal<r> and <item>Tiny Charcoal<r> will burn for <imp>one eighth of a piece of coal<r>, meaning it will <imp>smelt one item in a normal furnace<r>.
+
+booklet.actuallyadditions.chapter.lamps.name=Lamps
+booklet.actuallyadditions.chapter.lamps.text.1=<item>Lamps<r> are a block providing lots of light, similar to the mystic Glowstone or Torches, but they can be <imp>dyed with all of the 16 different colors<r> either by <imp>crafting them<r> or by placing them on the ground and <imp>right-clicking them with a piece of dye<r>. <n>When <imp>right-clicking<r> them with an empty hand, they will <imp>turn on and off<r>. If you want them, however, to be toggled using <item>Redstone<r> Power, just place a <item>Lamp Controller<r> next to one.
+
+booklet.actuallyadditions.chapter.treasureChest.name=Treasure Chests
+booklet.actuallyadditions.chapter.treasureChest.text.1=A <item>Treasure Chest<r> found underwater.
+booklet.actuallyadditions.chapter.treasureChest.text.2=<item>Treasure Chests<r> are a semi-uncommon occurence <imp>in Ocean Biomes<r>. They appear on the bottom of the sea, probably left there by bypassing Ships who threw off or lost some load. These Chests however, <imp>hold some valuable items<r>, if you're lucky. Breaking them won't yield you anything, though, you just have to <imp>right-click them<r> to receive some amazing goodies.
+
+booklet.actuallyadditions.chapter.breaker.name=Breakers and Placers
+booklet.actuallyadditions.chapter.breaker.text.1=The <item>Breaker<r> breaks blocks in front of it. It can be oriented in every direction. <n>When right-clicking it with a <item>Redstone Torch<r> in hand, it will change between a mode where it <imp>gets deactivated by Redstone<r> and a mode where it <imp>responds to pulses<r>.
+booklet.actuallyadditions.chapter.breaker.text.2=The <item>Placer<r> places blocks in front of it. It can be oriented in every direction. <n>When right-clicking it with a <item>Redstone Torch<r> in hand, it will change between a mode where it <imp>gets deactivated by Redstone<r> and a mode where it <imp>responds to pulses<r>.
+booklet.actuallyadditions.chapter.breaker.text.3=The <item>Liquid Placer<r> places liquids you supply it with. It needs <imp>1000mB<r> to place one block. When right-clicking it with a <item>Redstone Torch<r> in hand, it will change between a mode where it <imp>gets deactivated by Redstone<r> and a mode where it <imp>responds to pulses<r>.
+booklet.actuallyadditions.chapter.breaker.text.4=The <item>Liquid Collector<r> will collect <imp>1000mB<r> of liquids in front of it, that's a filled bucket. When right-clicking it with a <item>Redstone Torch<r> in hand, it will change between a mode where it <imp>gets deactivated by Redstone<r> and a mode where it <imp>responds to pulses<r>.
+
+booklet.actuallyadditions.chapter.phantomfaces.name=Phantomfaces
+booklet.actuallyadditions.chapter.phantomfaces.text.1=<item>Phantomfaces<r> are a simple way to <imp>connect inventories together<r>, they have a very important twist however: Instead of just connecting two inventories, a <item>Phantomface<r> <imp>simulates the inventory it is connected to<r>, meaning you can put items into and pull out of the Phantomface itself. A <item>Phantomface<r> has a <imp>default range of <range> blocks<r>, but it can be upgraded with a <item>Phantom Booster<r>. <item>Phantomfaces<r> are connected by <imp>right-clicking<r> an inventory with a <item>Phantom Connector<r> and then <imp>right-clicking<r> the <item>Phantomface.
+booklet.actuallyadditions.chapter.phantomfaces.text.2=<imp>Important Information:<r><n>It should be noted that the Phantomface is <imp>not<r> supposed to be <imp>used as a wireless transport<r> system. <n>The Phantomface should be used when, for example, wanting to input items into a machine that doesn't have enough space for the amount of cables you need around it, or when you want it to look nice in a room without needing any cables or other blocks around it. <n><n><i>It's not a short-range Tesseract.
+booklet.actuallyadditions.chapter.phantomfaces.text.3=The default <item>Phantomface<r> works for items, like described on the first page.
+booklet.actuallyadditions.chapter.phantomfaces.text.4=The <item>Phantom Liquiface<r> acts exactly like the normal <item>Phantomface<r>, but it <imp>works for liquid containing blocks<r>. When given a <imp>Redstone Signal<r>, it can be set to <imp>Auto-Output<r>. Be careful with this though, as it <imp>could cause infinte loops and lag<r> under certain conditions!
+booklet.actuallyadditions.chapter.phantomfaces.text.5=The <item>Phantom Energyface<r> acts exactly like the normal <item>Phantomface<r>, but it <imp>works for RF<r>, meaning you can connect it to things like Generators and Crushers.
+booklet.actuallyadditions.chapter.phantomfaces.text.7=The <item>Phantom Booster<r>, as explained on the first page, ups the range of <item>Phantomface<r>s by being placed <imp>on top of them<r>. The maximum amount above one <item>Phantomface<r> is <imp>3<r>.
+
+booklet.actuallyadditions.chapter.phantomBreaker.name=Phantom Breakers & Placers
+booklet.actuallyadditions.chapter.phantomBreaker.text.1=<item>Phantom Breakers<r> and <item>Placers<r> work similarly to the normal <item>Phantomfaces<r>, except that they are used to <imp>break and place blocks from a distance<r>. Their default range is <imp><range> Blocks<r>. To connect them to blocks to break, do as described in the <imp>Phantomface Chapter<r>. When connecting them to air spaces, just place a block, store it and then break it again. <n>When right-clicking it with a <item>Redstone Torch<r> in hand, it will change between a mode where it <imp>gets deactivated by Redstone<r> and a mode where it <imp>responds to pulses<r>.
+
+booklet.actuallyadditions.chapter.esd.name=ESDs
+booklet.actuallyadditions.chapter.esd.text.1=The <item>ESD<r> is a block that works <imp>similar to a Hopper<r> but has <imp>a lot more functionality<r>. <n>You can choose the sides to input and output and you can <imp>precisely configure<r> the range of slots to look at! <n>For more precise information about <item>ESDs<r>, craft one and <imp>hover over the elements in their GUI<r>! <n><n><i>Its actual name is
+
+booklet.actuallyadditions.chapter.xpSolidifier.name=Experience Solidifier
+booklet.actuallyadditions.chapter.xpSolidifier.text.1=The <item>Experience Solidifer<r> uses the player's experience and turns it into <item>Solidified Experience<r> which can later be used by <imp>right-clicking<r> to get the experience you stored into Item form back onto your character. <n>This is a safe and easy way to store your experience so that it isn't getting lost when you die. <n><item>Solidified Experience<r> also drops from Monsters sometimes as an Extra.
+
+booklet.actuallyadditions.chapter.greenhouseGlass.name=Greenhouse Glass
+booklet.actuallyadditions.chapter.greenhouseGlass.text.1=<item>Greenhouse Glass<r> is a very effective way to <imp>speed up the growth of your plants<r>! When placed anywhere above the plant, as long as there are no blocks below obstructing the path, and there is sunlight above the glass, it will <imp>significantly speed up the growth of the plant<r>! <n>It obviously has to be daytime, too. Thought that was obvious.
+booklet.actuallyadditions.chapter.greenhouseGlass.text.2=<i>Greenhouse Gas
+
+booklet.actuallyadditions.chapter.fishingNet.name=Fishing Net
+booklet.actuallyadditions.chapter.fishingNet.text.1=The <item>Fishing Net<r> is a block that makes fishing a lot easier! Just <imp>place it above some water<r> and it will, given a little bit of time, automatically catch fish for you! To store the fish, just place a chest above the <item>Fishing Net<r> or let the items spew out of the top and collect them manually. <n><n><i>For the impatient
+
+booklet.actuallyadditions.chapter.feeder.name=Feeder
+booklet.actuallyadditions.chapter.feeder.text.1=The <item>Feeder<r> is a good alternative to a manual animal farm. Place it in the middle of an animal pen and supply it with some wheat, seeds or carrots, depending on the animal you want to feed, and just wait. It will <imp>automatically feed the animals<r> and if there is enough animals near it, it will <imp>shut off on its own<r> to prevent lag or animal overflow. <n><n><i>Greenpeace approves
+
+booklet.actuallyadditions.chapter.compost.name=Compost and Fertilizer
+booklet.actuallyadditions.chapter.compost.text.1=The <item>Compost<r> is used to make <item>Fertilizier<r> from <item>Mashed Food<r>. <item>Fertilizer<r> acts just like Bone Meal, but can be crafted in a much simpler manner just by crafting <item>Mashed Food<r> and then putting <num> of those inside of a <item>Compost<r> and waiting for a bit. When the mashed food is composted, just take it out by right-clicking again.
+booklet.actuallyadditions.chapter.compost.text.3=<item>Mashed Food<r> can be crafted from <imp>any type of food or plantable item<r>.
+
+booklet.actuallyadditions.chapter.crate.name=Storage Crates
+booklet.actuallyadditions.chapter.crate.text.1=<item>Storage Crates<r> are big. <imp>Really big<r>. They hold tons of items, more than 4 chests worth of them.
+booklet.actuallyadditions.chapter.crate.text.2=Placing a <item>Storage Crate Keeper<r> inside the Storage Crate before breaking it will cause it to <imp>keep all of its items<r>, however the Keeper will be destroyed upon placing the Crate back down.
+booklet.actuallyadditions.chapter.crate.text.3=The <item>Chest To Storage Crate Upgrade<r> allows you to <imp>convert any chest into a Storage Crate<r>, retaining its items! <n>Just <imp>shift-right-click<r> onto the chest to apply it.
+
+booklet.actuallyadditions.chapter.coffeeMachine.name=Coffee Machine
+booklet.actuallyadditions.chapter.coffeeMachine.text.1=The <item>Coffee Machine<r> is a block used to make <item>Coffee<r>, a <imp>potion-like<r> item that gives the user several buffs. <n>To use the coffee machine, you need a <item>Empty Cup<r>, <coffee> <item>Coffee Beans<r>, which can be found in the wild, harvested and <imp>planted on farmland<r> again, <rf> RF/t and <water>mB of Water per cup brewed. <n>On the coffee machine recipe pages at the back, to see what the item does, just hover over the Cup of Coffee.
+booklet.actuallyadditions.chapter.coffeeMachine.text.2=To actually give your coffee some buffs, <imp>put some of the items shown on the later pages into the slots on the right<r>. <n>The more slots are filled up with one item, the higher the <imp>Amplifier<r> of the effect will be. The <imp>Maximum Amplifier<r> is the max amount of items to be put into one coffee. <n>Order matters: When using, for example, <item>Milk<r> (to see what it does exactly, go to a later page), you are going to have to plan the items out inside the <imp>numbered slots<r> in such a way that it brews the coffee you want.
+booklet.actuallyadditions.chapter.coffeeMachine.text.3=This is an example of a recipe making a coffee containing <imp>Fire Resistance 1 for 0:20<r> and <imp>Speed 1 for 2:30<r>.
+booklet.actuallyadditions.chapter.coffeeMachine.text.6=<item>Milk<r> is an important item when brewing coffee: It <imp>adds 2 minutes<r> to all effects of items in slots with lower numbers while <imp>removing 1 amplifier<r>. When the amplifier of an effect is 1, however, it will remove the effect.
+booklet.actuallyadditions.chapter.coffeeMachine.text.7=<i>The fact that you're reading this means that you either have <imp>HarvestCraft<r><i> installed, or that you're looking at the lang file. <r><n>This does the same thing as <item>Milk<r>, but for veggie guys.
+
+booklet.actuallyadditions.chapter.crusher.name=Crusher and Double Crusher
+booklet.actuallyadditions.chapter.crusher.text.1=The <item>Crusher<r> turns every ore, ingot and gem into its corresponding <imp>dust<r> using <rf1> RF/t. <n>When you put in <imp>Ores<r> however, they will yield <imp>2 pieces of dust<r>. <n>The <item>Double Crusher<r> basically does the same, however it can crush two ores at a time and uses <rf2> RF/t. <n>On the following pages, you can see some additional useful recipes for inside the crusher. <n><n><i>He's my crush
+
+booklet.actuallyadditions.chapter.furnaceDouble.name=Double Furnace
+booklet.actuallyadditions.chapter.furnaceDouble.text.1=The <item>Double Furnace<r> works like a furnace, however, it uses <rf> RF/t and can smelt <imp>two items at a time<r>.
+
+booklet.actuallyadditions.chapter.lavaFactory.name=Lava Factory
+booklet.actuallyadditions.chapter.lavaFactory.text.1=The <item>Lava Factory<r> can produce blocks of lava given <imp><rf> RF/block<r>. <n>The Block above it has to be surrounded with 4 Casing Blocks, otherwise it won't be able to produce Lava. <n>Right-Clicking on the <item>Lava Factory<r> will show you if it's able to produce Lava in its current setup. <n><n><i>Lava, for a fact. <n>                ory
+
+booklet.actuallyadditions.chapter.energizer.name=Energizer and Enervator
+booklet.actuallyadditions.chapter.energizer.text.1=The <item>Energizer<r> <imp>charges items that hold RF<r> using its energy supply.
+booklet.actuallyadditions.chapter.energizer.text.2=The <item>Enervator<r> <imp>discharges items that hold RF<r> and stores the energy in its energy supply.
+
+booklet.actuallyadditions.chapter.repairer.name=Item Repairer
+booklet.actuallyadditions.chapter.repairer.text.1=The <item>Item Repairer<r> uses <imp><rf> RF/t<r> to repair items that can be repaired in an Anvil <imp>without needing any materials<r>!
+
+booklet.actuallyadditions.chapter.coalGen.name=Coal Generator
+booklet.actuallyadditions.chapter.coalGen.text.1=The <item>Coal Generator<r> generates <imp><rf> RF/t<r> through the use of everything that can be put into a furnace. <n>Note that it only starts burning something up if there's enough space for the energy generated.
+
+booklet.actuallyadditions.chapter.solarPanel.name=Solar Panel
+booklet.actuallyadditions.chapter.solarPanel.text.1=The <item>Solar Panel<r> <imp>produces <rf> RF/t<r> when it has direct daylight above it and it is daytime. <n><n><i>Panelled walls
+
+booklet.actuallyadditions.chapter.heatCollector.name=Heat Collector
+booklet.actuallyadditions.chapter.heatCollector.text.1=The <item>Heat Collector<r> is a block that <imp>produces <rf> RF/t<r>. <n>To do that, it needs to be <imp>surrounded with at least <min> Lava Blocks<r> directly around it on any side except the top one. But watch out, it sometimes <imp>destroys some of these Lava Blocks<r>!
+
+booklet.actuallyadditions.chapter.canola.name=Everything Canola
+booklet.actuallyadditions.chapter.canola.text.1=There is lots of stuff that can be produced from Canola (which can be found in the wild and then planted and harvested!): You can make <imp>Canola Oil<r>, <imp>Oil<r> and produce <imp>RF<r> from it. <n>The way to do that is to take some <item>Canola, put it into a <item>Canola Press<r> which uses <pressRF> RF/t. That creates <imp><canola> mB of Canola Oil<r>. Put that into a <item>Fermenting Barrel<r>, let it sit there for a while before it converts into <imp>Oil<r>. That oil can then be used in a <item>Oil Generator<r> to create <imp><rf> RF/t<r>.
+
+booklet.actuallyadditions.chapter.wings.name=Wings Of The Bats
+booklet.actuallyadditions.chapter.wings.text.1=Sometimes, bats will drop <item>Wings<r>. These wings can't really be used to fly, but that's just because they're not powerful enough. <n>To make them more powerful, you can craft <item>Wings Of The Bats<r>. When you have these in your inventory, they will allow you to <imp>fly like in creative mode<r>.
+
+booklet.actuallyadditions.chapter.foods.name=Foodstuffs
+booklet.actuallyadditions.chapter.foods.text.1=Yes, this is <item>Bacon<r>. Don't try naming it <imp>Ellspeck<r>. <n><n><i>Please, just don't.
+
+booklet.actuallyadditions.chapter.leafBlower.name=Leaf Blowers
+booklet.actuallyadditions.chapter.leafBlower.text.1=The <item>Leaf Blower<r> can blow away tall grass, flowers and other stuff around you when you <imp>hold right-click<r>. There is an <item>Advanced Leaf Blower<r>, which works like the basic one, except that it operates <imp>much faster<r> and <imp>also breaks Leaves<r>.
+
+booklet.actuallyadditions.chapter.aiots.name=All-In-One-Tools (AIOTs)
+booklet.actuallyadditions.chapter.aiots.text.1=An <item>All-In-One-Tool<r> is a tool that is <imp>Pickaxe,斧,铲,剑 and锄 in one<r>. They are available in every material and if you have <imp>Thermal Foundation<r> or <imp>MekanismTools<r> installed, there are even AIOTs made of their materials!
+
+booklet.actuallyadditions.chapter.jams.name=Jams
+booklet.actuallyadditions.chapter.jams.text.1=Once, there was a <imp>Kitty<r> who really wanted some Jam. <n>So I made some <item>Jam<r>. <n>Seriously, this is Jam. You can find it in Village Houses or buy it from the <imp>Jam Villager<r>. <n>Every Jam gives you two different <imp>potion effects<r>!
+booklet.actuallyadditions.chapter.jams.text.2=A <imp>Jam House<r> and <n>its inhabitant
+booklet.actuallyadditions.chapter.jams.text.3=So. <n>You're probably wondering what the names of the jams mean. <n>Now, let me tell you: <n><n><i>-Honeydew Melon and Kiwi <n>-Honeydew Melon and Coconut <n>-Pineapple and Coconut <n>-Cherry, Apple and Cinnamon <n>-Plum, Apple and Lemon <n>-Grape, Kiwi and Banana <n>-Currant, Banana and Raspberry <n><n><r>Now, which one is which, you may ask? Figure it out yourself.
+
+booklet.actuallyadditions.chapter.potionRings.name=Potion Rings
+booklet.actuallyadditions.chapter.potionRings.text.1=The <item>Potion Rings<r> have two versions: A <imp>normal version<r> and an <imp>advanced version<r>. <n>The normal version, when you have it in your hand, will give you a <imp>Potion Effect<r> of Level 1. The advanced version can be anywhere in your inventory and gives you an effect of Level 2!
+
+booklet.actuallyadditions.chapter.drill.name=Drills
+booklet.actuallyadditions.chapter.drill.text.1=The <item>Drill<r> works like a镐 and a铲. It uses <imp>RF<r> per block. It can be <imp>charged in an Energizer<r> and upgraded by <imp>right-clicking<r> with it in your hand. There is <imp>a lot of upgrades<r>, but here is an explanation of some of them: <n>The <item>Mining Uprgades<r> enlarge the hole which the Drill digs. <n>The <item>Placement Upgrade<r>, after you right-click it in any slot of your hotbar, will make the Drill able to <imp>place a block from that slot by right-clicking<r>. You can also put a <item>Battery<r> inside the Drill to give it more charge.
+booklet.actuallyadditions.chapter.drill.text.3=The <item>Drill<r> can also be <imp>dyed<r> in Minecraft's 16 colors. <n>It's only cosmetic and won't have any effect other than it looking different, however.
+
+booklet.actuallyadditions.chapter.staff.name=Staff
+booklet.actuallyadditions.chapter.staff.text.1=The <item>Teleport Staff<r>, when charged in an Energizer, can be <imp>right-clicked<r> to <imp>teleport you to where you're looking<r>. When you are looking at a block, it will teleport you there, however, when you aren't looking at a block, you can only be looking upwards up to <imp>5 degrees<r>, otherwise the teleport will fail.
+
+booklet.actuallyadditions.chapter.magnetRing.name=Ring Of Magnetism
+booklet.actuallyadditions.chapter.magnetRing.text.1=The <item>Ring Of Magnetism<r>, when it is charged in an Energizer and inside your inventory, uses <imp>RF<r> to suck up items that are farther away than you can pick up by yourself.
+
+booklet.actuallyadditions.chapter.growthRing.name=Ring Of Growth
+booklet.actuallyadditions.chapter.growthRing.text.1=The <item>Ring Of Growth<r>, when it is charged in an Energizer and in your hand, uses <imp>RF<r> to make plants around you grow much faster.
+
+booklet.actuallyadditions.chapter.waterRemovalRing.name=Ring Of Liquid Banning
+booklet.actuallyadditions.chapter.waterRemovalRing.text.1=The <item>Ring Of Liquid Banning<r>, when it is charged in an Energizer and in your hand, uses <imp>RF<r> to remove <imp>Lava<r> and <imp>Water<r>.
+
+booklet.actuallyadditions.chapter.batteries.name=Batteries
+booklet.actuallyadditions.chapter.batteries.text.1=<item>Batteries<r> are a good way to store RF to move around. They can be <imp>charged in an Energizer<r> and <imp>discharged in an Enervator<r>.
+
+booklet.actuallyadditions.chapter.leafGen.name=Leaf-Eating Generator
+booklet.actuallyadditions.chapter.leafGen.text.1=The <item>Leaf Generator<r> can generate <imp>RF<r> just by being placed alongside some <item>Leaves<r>. <n>It will destroy the leaves, generating <imp><rf> RF per leaf broken<r> in the process. <n>By right-clicking the generator, you can see how much RF it has stored. <n>It has a <imp>range of <range><r> blocks.
+booklet.actuallyadditions.chapter.leafGen.text.2=<i>Munchy
+
+booklet.actuallyadditions.chapter.longRangeBreaker.name=Long-Range Breaker
+booklet.actuallyadditions.chapter.longRangeBreaker.text.1=The <item>Long-Range Breaker<r> works like a normal <item>Breaker<r>, but it can break <imp>up to <range> blocks in front of it<r>. <n>Per block broken, it uses <imp><rf> RF<r>. <n>When right-clicking it with a <item>Redstone Torch<r> in hand, it will change between a mode where it <imp>gets deactivated by Redstone<r> and a mode where it <imp>responds to pulses<r>. <n><n><i>Breaking the <range>th wall
+booklet.actuallyadditions.chapter.longRangeBreaker.text.2=<i>Sequence Breaking
+
+booklet.actuallyadditions.chapter.dropper.name=Automatic Precision Dropper
+booklet.actuallyadditions.chapter.dropper.text.1=The <item>Automatic Precision Dropper<r> works much like a normal dropper, but it will drop items <imp>without needing a Redstone Signal<r>. <n>It also won't spit them out all over the ground, but it will <imp>drop them straight into the direction you point it at<r>! <n>When right-clicking it with a <item>Redstone Torch<r> in hand, it will change between a mode where it <imp>gets deactivated by Redstone<r> and a mode where it <imp>responds to pulses<r>.
+
+booklet.actuallyadditions.chapter.rangedCollector.name=Ranged Collector
+booklet.actuallyadditions.chapter.rangedCollector.text.1=The <item>Ranged Collector<r> works much like a hopper, in that it <imp>collects items around it<r>, having the power, however, to pick up items that are in an area of <imp><range> blocks<r> around it. <n>It has a <imp>filter<r> that can be set to <imp>white- or blacklist<r>. <n>This comes with a disadvantage, however: It doesn't auto-output its items.
+
+booklet.actuallyadditions.chapter.hairBalls.name=Ball of Fur-s
+booklet.actuallyadditions.chapter.hairBalls.text.1=<item>Balls of Fur<r> dropped by <imp>live<r> cats. <n>More information on the next page.
+booklet.actuallyadditions.chapter.hairBalls.text.2=<item>Balls of Fur<r> are an item rarely dropped by <imp>cats<r> which have been <imp>tamed<r> by the player. <n>Cats are very mysterious creatures as they <imp>appear to get everything stuck in their fur<r>. <item>Balls of Fur<r> may seem disgusting at first, but when removing all of the hair by <imp>right-clicking<r>, they will reveal some <imp>valuable items<r>. <n>Or just some String. <n><n><n><i>FUURRRRRR!!
+
+booklet.actuallyadditions.chapter.laserRelays.name=Laser Relays
+booklet.actuallyadditions.chapter.laserRelays.text.1=The <item>Laser Relay<r> is a block that can <imp>wirelessly transfer RF<r> just by being connected with a <item>Laser Wrench<r>, generating a network. <n>When placing a Power Generator or Receiver next to the relay, it can receive Power <imp>from any other relay<r> in the network. <n>Two relays can be at most <range> blocks apart. <n>During an energy transfer, they have an <imp>Energy Loss<r> of <loss>%.
+
+booklet.actuallyadditions.chapter.blackLotus.name=Black Lotus
+booklet.actuallyadditions.chapter.blackLotus.text.1=Think of this: <n>You need to craft <imp>black wool<r>, <imp>black clay<r> or anything else that <imp>needs black dye<r> but you are just guilty about killing so many <imp>innocent squids<r>? <n>Well, the <item>Black Lotus<r> is exactly the thing you need! <n>Just look around <imp>in the wild<r> a bit, and you will find one, then being able to craft some <item>Black Dye<r> that can be used <imp>instead of Ink Sacs<r> so that you don't need to kill poor squids and L any longer.
+booklet.actuallyadditions.chapter.blackLotus.text.2=<i>No, not that one, Vaz
+
+booklet.actuallyadditions.chapter.crystals.name=Crystals and Reconstructor
+booklet.actuallyadditions.chapter.crystals.text.1=The <item>Atomic Reconstructor<r> is used to craft <item>Crystals<r>, which are the main crafting ingredient in most items from <imp>Actually Additions<r>. <n>Upon being supplied with power, it shoots out a Laser. <tifisgrin>When the Laser hits a block<r>, it will convert all surrounding items and blocks, provided they can be converted. <n>When shooting a laser, it uses <imp><rf> RF<r>, but additional rates vary depending on the conversion.
+booklet.actuallyadditions.chapter.crystals.text.2=There are various <item>Lenses<r> that can be attached to the Reconstructor that don't all follow the default behavior of the Reconstructor and are able to do some neat things. <n>See the <imp>"Reconstructor Lenses & Misc"<r> chapter in the booklet's Miscellaneous section <imp>for more information<r>. <n><n>When right-clicking the Reconstructor with a <item>Redstone Torch<r> in hand, it will change between a mode where it <imp>gets deactivated by Redstone<r> and a mode where it <imp>responds to pulses<r>.
+booklet.actuallyadditions.chapter.crystals.text.3=It should be noted that any recipes listed without information about Lenses <imp>don't use one<r>. <n><i>I thought that was obvious.
+booklet.actuallyadditions.chapter.crystals.text.5=When you have crafted a couple of items, you might want to find a way to <imp>automate this<r>. <n>There is a very simple way to do accomplish this: <n>Place the <item>Atomic Reconstructor<r> down facing into a <item>Precision Dropper<r> (to find it, look it up in the <imp>All Items and Search<r> Entry!). <n>Next, place a <item>Ranged Collector<r> in the area that has the converted items set as a whitelist. <n>Now you can just chuck your raw materials into the Dropper to convert them!
+
+booklet.actuallyadditions.chapter.bookTutorial.name=Intro to the Manual
+booklet.actuallyadditions.chapter.bookTutorial.text.1=The <item>Actually Additions Manual<r> is very versatile. Here is a quick overview: <n><imp>Entries & Chapters<r><n>An Entry is a general topic while a Chapter is almost always pointed to a specific item. When closing a chapter, the index opens, when closing that, the front page will. <n><imp>Bookmarks<r><n>Bookmarks, as seen on the bottom of the booklet, store the current page when clicked and can restore said page when clicked again. This can be very useful for easy navigation.
+booklet.actuallyadditions.chapter.bookTutorial.text.2=<imp>The Buttons at the top right<r> lead you to the Achievements or Configuration Screen. When looking at a chapter that is somehow connected to an achievement, a speech bubble that you can hover over to see the Achievement in question will point to the Achievements Button. <n><imp>The Buttons on the top left<r> can be used to be directed to various Webpages that have to do with the mod. <n>When an update is available, a button to download it will also show up on the top left.
+booklet.actuallyadditions.chapter.bookTutorial.text.3=If you, for some reason, want to craft this book again, just take a <item>piece of paper<r> and a <item>canola seed<r> which you can find randomly generated and craft them together!
+
+booklet.actuallyadditions.chapter.bookStand.name=Manual Stand
+booklet.actuallyadditions.chapter.bookStand.text.1=The <item>Manual Stand<r> is a block that is supposed to mainly be used on <imp>Servers<r>. <n>You can, provided you are the person who <imp>placed it down<r>, set a page in the GUI that will <imp>open when someone else accesses it<r> by pressing the "Set Page"-button while being on the desired page. <n>The Manual Stand <imp>does not save<r> pages another player navigated to, meaing re-accessing the Stand will cause it to always <imp>end up on the page speficied<r> by the placer.
+booklet.actuallyadditions.chapter.bookStand.text.2=<n><n><n><i>Stand on it
+
+booklet.actuallyadditions.chapter.reconstructorLenses.name=Reconstructor Lenses & Misc
+booklet.actuallyadditions.chapter.reconstructorLenses.text.1=The <item>Atomic Reconstructor<r>, by default, can only convert some blocks. <n>This can be changed, however, with <item>Lenses<r>. They can be, once crafted, attached to the Reconstructor via <imp>right-clicking<r> the Reconstructor with them in hand. To remove them, right-click it with an empty hand. <n><item>Lenses<r> have lots of different features and uses, as you can see on <imp>the following pages<r>. <n>However, there is also some <imp>other useful recipes<r> to be found there too.
+booklet.actuallyadditions.chapter.reconstructorLenses.text.3=The <item>Lens of Color<r> changes the color of <imp>Stained Glass and Panes, Stained Clay, Carpetet, Dye, Lamps, Wool<r> in its sight. <n>Contrary to using no lens, it goes <imp>through blocks<r> and only converts blocks it touches.
+booklet.actuallyadditions.chapter.reconstructorLenses.text.4=The <item>Lens of Detonation<r> will create a firey explosion <imp>around the block the laser hits<r>. <n>Be careful with this. Seriously. <n>(With this lens, the laser also goes 3 times as far!)
+booklet.actuallyadditions.chapter.reconstructorLenses.text.5=The <item>Lens of Certain Death<r> will, <imp>deal lots of damage<r> to whatever steps into it, enough, in fact, to kill a player <imp>in a single hit<r>.
+
+booklet.actuallyadditions.chapter.miscDecorStuffsAndThings.name=Some Decor
+booklet.actuallyadditions.chapter.miscDecorStuffsAndThings.text.1=Sometimes, when you build, you notice there is just <imp>not enough decor blocks<r>. Well, we present to you: <item>Ethetic Blocks<r>! <n>These are some quartz-like decor blocks with lovely patterns that can also be <imp>converted<r> into <imp>Stairs<r>, <imp>Slabs<r> and <imp>Walls<r> using the usual, well-known recipe patterns.
+
+booklet.actuallyadditions.chapter.miner.name=Vertical Digger
+booklet.actuallyadditions.chapter.miner.text.1=The <item>Vertical Digger<r> can be used to automatically <imp>mine blocks<r> from the world. <n>It has two modes: It can either <imp>only mine ores<r> or <imp>mine everything<r>. When mining a block, it uses about <rf> RF. <n>Mined items get stored in an internal buffer that can be accessed through right-clicking. <n><n>Its default radius is <range>, but much like Phantomfaces, the Digger's range can be upgraded by placing 3 or less <item>Phantom Boosters<r> above it.
+booklet.actuallyadditions.chapter.miner.text.2=(Works with any colored Drill) <n><n><n><n><n><i>I dig it
+
+booklet.actuallyadditions.chapter.fireworkBox.name=Firework Box
+booklet.actuallyadditions.chapter.fireworkBox.text.1=The <item>Firework Box<r> is a perfect thing for New Year's! When placed down and supplied with some <imp>RF<r>, it will shoot out some <imp>randomly generated<r> <item>Fireworks<r> around it. <n>For each shot, it uses <rf> RF. <n><n><i>You know, Vanilla Fireworks are just too bloody annoying to craft, but too awesome not to use. So here's the solution.
+booklet.actuallyadditions.chapter.fireworkBox.text.2=When right-clicking it with a <item>Redstone Torch<r> in hand, it will change between a mode where it <imp>gets deactivated by Redstone<r> and a mode where it <imp>responds to pulses<r>.
+
+booklet.actuallyadditions.chapter.rf.name=RF (Redstone Flux)
+booklet.actuallyadditions.chapter.rf.text.1=For anyone who hasn't used much of a mod that uses <imp>RF<r> yet, here's a quick explanation. <n><imp>Redstone Flux<r>, or RF for short, is a power system used by many mods. <n>The basic concept is is that lots of machines generate or use it <imp>every game tick<r>. That's what <imp>RF/t<r> means. <n>To connect a power generating (thus, outputting) machine to one that needs (thus, receives) power, just <imp>place it next to it<r>. <n><n><i>What's a fourth wall?
