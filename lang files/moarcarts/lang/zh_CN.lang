@@ -1,0 +1,82 @@
+## core stuff
+itemGroup.moarcarts=MoarCarts
+
+## vanilla stuff
+item.minecartenderchest.name=末影箱矿车
+
+entity.moarcarts.entityminecartenderchest.name=末影箱矿车
+
+tile.blockcomparatorrail.name=比较铁轨
+
+## ironchest stuff
+item.minecartironchest.iron.name=铁箱子矿车
+item.minecartironchest.gold.name=金箱子矿车
+item.minecartironchest.diamond.name=钻石箱子矿车
+item.minecartironchest.copper.name=铜箱子矿车
+item.minecartironchest.silver.name=银箱子矿车
+item.minecartironchest.crystal.name=水晶箱子矿车
+item.minecartironchest.obsidian.name=黑曜石箱子矿车
+item.minecartironchest.dirtchest9000.name=泥土箱子 9000！矿车
+
+entity.moarcarts.entityminecartironchest.name=铁箱子矿车
+entity.moarcarts.entityminecartgoldchest.name=金箱子矿车
+entity.moarcarts.entityminecartdiamondchest.name=钻石箱子矿车
+entity.moarcarts.entityminecartcopperchest.name=铜箱子矿车
+entity.moarcarts.entityminecartsilverchest.name=银箱子矿车
+entity.moarcarts.entityminecartcrystalchest.name=水晶箱子矿车
+entity.moarcarts.entityminecartobsidianchest.name=黑曜石箱子矿车
+entity.moarcarts.entityminecartdirtchest.name=泥土箱子 9000！矿车
+
+## ie stuff
+item.minecartwoodenbarrel.name=木桶矿车
+item.minecartmetalbarrel.name=金属桶矿车
+item.minecartwoodencrate.name=木质存储箱矿车
+item.minecartcapacitorlv.name=低压电容器矿车
+item.minecartcapacitormv.name=中压电容器矿车
+item.minecartcapacitorhv.name=高压电容矿器车
+item.minecartcapacitorcreative.name=创造电容器矿车
+
+entity.moarcarts.entityminecartwoodenbarrel.name=木桶矿车
+entity.moarcarts.entityminecartmetalbarrel.name=金属桶矿车
+entity.moarcarts.entityminecartwoodencrate.name=木质存储箱矿车
+entity.moarcarts.entityminecartcapacitorlv.name=低压电容器矿车
+entity.moarcarts.entityminecartcapacitormv.name=中压电容器矿车
+entity.moarcarts.entityminecartcapacitorhv.name=高压电容矿器车
+entity.moarcarts.entityminecartcapacitorcreative.name=创造电容器矿车
+
+## mfr stuff
+item.minecartdsu.name=异次元存储器矿车
+
+entity.moarcarts.entityminecartdsu.name=异次元存储器矿车
+
+## minechem stuff制箱子矿车
+
+entity.moarcarts.entityminecartleadedchest.name=铅制箱子矿车
+
+## rf stuff
+tile.moarcarts.blockrfloader.name=RF装载器
+
+## botania stuff
+item.minecarttinypotato.name=小土豆矿车
+
+entity.moarcarts.entityminecarttinypotato.name=小土豆矿车
+
+## avaritia stuff
+item.minecartinfinitato.name=无限箱子矿车
+
+entity.moarcarts.entityminecartinfinitato.name=无限箱子矿车
+
+## railcraft stuff
+item.minecartmachinebeta.void.name=虚空箱子矿车
+item.minecartmachinebeta.metals.name=金属箱子矿车
+
+entity.moarcarts.entityminecartvoidchest.name=虚空箱子矿车
+entity.moarcarts.entityminecartmetalschest.name=金属箱子矿车
+
+##boilerplate
+boilerplate.blockSide.facing=Facing Side
+boilerplate.blockSide.opposite=Opposite Side
+
+boilerplate.sidetype.input=输入
+boilerplate.sidetype.output=输出
+boilerplate.sidetype.none=无
